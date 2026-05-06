@@ -23,6 +23,13 @@ Linkedin: https://www.linkedin.com/in/gabriel-nascimento-3332683a4/
 />
 <img
     align="left"
+    alt="postgresql"
+    width="40px"
+    style="padding-right: 10 px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img
+    align="left"
     alt="postman"
     width="40px"
     style="padding-right: 10 px;"
