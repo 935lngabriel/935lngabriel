@@ -36,13 +36,6 @@ Linkedin: https://www.linkedin.com/in/gabriel-nascimento-3332683a4/
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 <img
-    align = "left"
-    alt = "c"
-    width = "35px"
-    style = "padding-right: 10 px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-<img
     align="left"
     alt="linux"
     width="40px"
